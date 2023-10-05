@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Contract" style="height: 106px;">
+        <ui:VisualElement name="Container" style="height: 16px; width: 172px;" />
+        <ui:TextField picking-mode="Ignore" label="Your Flow Address" text="0x02..." name="contract" />
+        <ui:Button text="Submit" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+    <ui:VisualElement name="MintNFT" style="height: 161px;">
+        <ui:VisualElement name="Container" style="height: 16px; width: 172px;" />
+        <ui:TextField picking-mode="Ignore" label="Emotions" text="happy?sad?complex?" name="emotion" usage-hints="None" />
+        <ui:TextField picking-mode="Ignore" label="Description" text="Is there a story behind?" name="description" />
+        <ui:Button text="Submit" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+    <ui:VisualElement name="SendNFT" style="height: 161px;">
+        <ui:VisualElement name="Container" style="height: 16px; width: 172px;" />
+        <ui:TextField picking-mode="Ignore" label="Recipient&apos;s address" text="0x07..." name="emotion" style="height: 17px;" />
+        <ui:TextField picking-mode="Ignore" label="NFT&apos;s ID" text="..." name="description" />
+        <ui:Button text="Submit" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+</ui:UXML>
