@@ -1,5 +1,8 @@
 ## Usage
 
+![Uploading image.png…]()
+
+
 Exchange Emotions offers a unique experience for users to engage with emotions and NFTs. Here's how you can use the platform:
 
 1. **Emotion Input Interface**: Utilise the user-friendly interface in Unity to input your emotions, along with descriptions and personal stories. Express yourself fully by sharing the stories behind your emotions, creating a meaningful connection with others.
