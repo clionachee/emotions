@@ -1,7 +1,7 @@
-## Usage
+![image](https://github.com/clionachee/emotions/assets/94758696/a594ffc6-cd4d-492f-9634-8b2b96cc87a2)![image](https://github.com/clionachee/emotions/assets/94758696/946a08e5-ec5f-40a3-83ec-d454517185d6)## Usage
 
-![Uploading image.png…]()
 
+♥
 
 Exchange Emotions offers a unique experience for users to engage with emotions and NFTs. Here's how you can use the platform:
 
@@ -45,6 +45,6 @@ Exchange Emotions utilises the following technologies:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+♥
 
 Embrace emotions, share feelings, and contribute to a more emotionally aware world with Exchange Emotions.
