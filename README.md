@@ -1,4 +1,6 @@
-![image](https://github.com/clionachee/emotions/assets/94758696/a594ffc6-cd4d-492f-9634-8b2b96cc87a2)![image](https://github.com/clionachee/emotions/assets/94758696/946a08e5-ec5f-40a3-83ec-d454517185d6)## Usage
+![image](https://github.com/clionachee/emotions/assets/94758696/a594ffc6-cd4d-492f-9634-8b2b96cc87a2)
+
+## Usage
 
 
 ♥
@@ -17,9 +19,12 @@ Exchange Emotions offers a unique experience for users to engage with emotions a
 
 6. **Track Mental Health Progress**: Users can track their mental health progress on the blockchain, with significant milestones minted as NFTs. These visual representations of their emotional journey serve as powerful motivators and provide valuable data for personal growth and reflection.
 
-## Contributing
+![image](https://github.com/clionachee/emotions/assets/94758696/85c33da6-5a52-4c57-b6e5-8f76e73dacc4)
 
-We invite you to contribute to the Exchange Emotions project and help us create a more emotionally expressive world. Here are some ways you can get involved:
+
+## Contributing
+Fow now, this project is for D.I. Hackathon Season 3 hosted by LearnWeb3 DAO. ♥ Using Flow blockchain.
+However, if you are really interested in the future development, let's discuss to contribute to the Exchange Emotions project and help us create a more emotionally expressive world. Here are some ways you can get involved:
 
 - **Code Development**: If you're a developer, you can contribute by enhancing the platform's functionality, fixing bugs, or adding new features. Fork the repository, make your changes, and submit a pull request.
 
